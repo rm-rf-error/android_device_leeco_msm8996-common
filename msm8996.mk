@@ -182,13 +182,13 @@ PRODUCT_PACKAGES += \
     hwcomposer.msm8996 \
     memtrack.msm8996 \
     libdisplayconfig \
-	 libdisplayconfig.qti \
-	 liboverlay \
+    libdisplayconfig.qti \
+    liboverlay \
     libqdMetaData.system \
     libtinyxml \
     vendor.display.config@1.0.vendor \
-	 vendor.display.config@2.0 \
-	 libvulkan
+    vendor.display.config@2.0 \
+    libvulkan
 
 # Doze mode
 PRODUCT_PACKAGES += \
