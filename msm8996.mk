@@ -474,7 +474,7 @@ PRODUCT_PACKAGES += \
     libnl
 
 # PRODUCT_BOOT_JARS += \
-#     WfdCommon
+    WfdCommon
 
 # Model is set via init library
 PRODUCT_SYSTEM_PROPERTY_BLACKLIST := \
