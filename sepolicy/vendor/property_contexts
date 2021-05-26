@@ -6,6 +6,10 @@ persist.camera.                    u:object_r:camera_prop:s0
 # netmgrd
 persist.net.doxlat                 u:object_r:vendor_xlat_prop:s0
 
+# perf
+ro.min_freq_0                      u:object_r:vendor_freq_prop:s0
+ro.min_freq_4                      u:object_r:vendor_freq_prop:s0
+
 # radio
 oem.device.imeicache               u:object_r:vendor_qcom_ims_prop:s0
 sys.fake_bs_flag0                  u:object_r:system_radio_prop:s0
